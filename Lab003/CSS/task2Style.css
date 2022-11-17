@@ -1,0 +1,20 @@
+body {
+    background-image: url(pic/img.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    text-shadow: 5px 5px 8px rgb(129, 128, 128);
+}
+
+h1 {
+    padding-top: 25%;
+    color: #fff;
+    text-align: center;
+    font-size: 95px;
+}
+
+p {
+    color: #fff;
+    font-size: 50px;
+    text-align: center;
+}

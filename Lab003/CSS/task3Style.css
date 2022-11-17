@@ -1,0 +1,47 @@
+body {
+    font-family: Sans-Serif;
+}
+
+.VeticalMenu {
+    width: 20%;
+    height: auto;
+    background-color: #f3f3f3;
+    padding: 0;
+}
+
+.VeticalMenu li {
+    font-size: 18px;
+    font-weight: bold;
+    list-style: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 25px;
+}
+
+.VeticalMenu li:hover {
+    color: #ffffff;
+    background-color: #67b15a;
+}
+
+.HorizontalMenu {
+    height: auto;
+    font-weight: bold;
+    width: auto;
+    background-color: #f3f3f3;
+    padding: 0px;
+}
+
+.HorizontalMenu li {
+    color: #919191;
+    padding: 20px;
+    display: inline-block;
+}
+
+.HorizontalMenu li:last-child {
+    float: right;
+}
+
+.HorizontalMenu li:hover {
+    color: #ffffff;
+    background-color: #3984ac;
+}

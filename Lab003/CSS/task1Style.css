@@ -1,0 +1,31 @@
+.paragraph {
+    font-family: sans-serif;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 3%;
+    background-color: #1E2329;
+}
+
+.paragraph .date {
+    width: 15%;
+    font-size: 12px;
+    text-align: center;
+    color: #fff;
+    background-color: #F09939;
+    padding: 1%;
+}
+
+.paragraph h1 {
+    font-size: 58px;
+    font-weight: 1;
+    color: #fff;
+}
+
+.paragraph p {
+    font-size: 22px;
+    color: #898D90;
+}
+
+.paragraph a {
+    color: #F09939;
+}
